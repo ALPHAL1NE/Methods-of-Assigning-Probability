@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# IDE artifacts
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
